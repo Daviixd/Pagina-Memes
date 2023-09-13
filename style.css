@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+#topo {
+    text-align: center;
+    padding: 10px 15px 10px 15px;
+    background: rgb(71, 67, 67);
+    color: aliceblue;
+    margin-bottom: 50px;
+
+}
+
+
+.menu {
+    background: rgb(225, 220, 220);
+    max-width: 550px;
+    min-width: 550px;
+    margin-top: 10px;
+    margin-left: 30%;
+    align-items: center;
+    border: 2px solid rgb(163, 163, 163);
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+h3 {
+    color: rgb(133, 20, 14);
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+p {
+    margin-left: 15px;
+}
+
+.texto {
+    color: rgb(133, 20, 14);
+    font-size: 45px;
+    margin-left: 10px;
+}
